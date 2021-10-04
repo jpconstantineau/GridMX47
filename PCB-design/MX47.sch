@@ -1534,7 +1534,7 @@ U 1 1 613315A3
 P 9300 4150
 F 0 "U42" H 9300 4535 50  0000 C CNN
 F 1 "CherryMX_LTST-A683CEGBW" H 9300 4444 50  0000 C CNN
-F 2 "CherryMX_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated:CherryMX_2.00u_KailhSocket_StabWireTop_LTST-A683CEGBW-Rotated" H 9300 4050 50  0001 C CNN
+F 2 "CherryMX_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated:CherryMX_2.00u_PCB_KailhSocket_StabWireBottom_LTST-A683CEGBW-Rotated" H 9300 4050 50  0001 C CNN
 F 3 "" H 9300 4050 50  0001 C CNN
 	1    9300 4150
 	1    0    0    -1  
